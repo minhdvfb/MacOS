@@ -1,2 +1,2 @@
-                                      MAC-BIGSUR
+                                      MAC-OS
 
